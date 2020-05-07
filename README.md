@@ -1,2 +1,2 @@
-# HW
-This is for HW of all my courses as a student.
+# ComputerVisionAssignment
+This is for assignments in my ComputerVision Course in NSYSU.
