@@ -1,2 +1,2 @@
 # ComputerVisionAssignment
-This is for assignments in my ComputerVision Course in NSYSU.
+This is for assignments in my Computer Vision Course in NSYSU.
